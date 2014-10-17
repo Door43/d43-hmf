@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmf:home|Door43 (hmf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmf|d43-hmf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmf/archive/master.zip|d43-hmf.zip]]
+
+**Recent Changes**
+{{changes>ns = hmf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmf|Ethnologue data]]
+
